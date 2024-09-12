@@ -1,4 +1,4 @@
-## Programador entusiasta 👋
+## Programador entusiasta
 
 <!--
 **elcrisec/elcrisec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
